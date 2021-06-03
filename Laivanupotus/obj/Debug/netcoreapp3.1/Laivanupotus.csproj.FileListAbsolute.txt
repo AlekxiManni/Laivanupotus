@@ -1,0 +1,13 @@
+E:\VisualStudioProjektit\Koulu\Perusteet\Laivanupotus\Laivanupotus\bin\Debug\netcoreapp3.1\Laivanupotus.exe
+E:\VisualStudioProjektit\Koulu\Perusteet\Laivanupotus\Laivanupotus\bin\Debug\netcoreapp3.1\Laivanupotus.deps.json
+E:\VisualStudioProjektit\Koulu\Perusteet\Laivanupotus\Laivanupotus\bin\Debug\netcoreapp3.1\Laivanupotus.runtimeconfig.json
+E:\VisualStudioProjektit\Koulu\Perusteet\Laivanupotus\Laivanupotus\bin\Debug\netcoreapp3.1\Laivanupotus.runtimeconfig.dev.json
+E:\VisualStudioProjektit\Koulu\Perusteet\Laivanupotus\Laivanupotus\bin\Debug\netcoreapp3.1\Laivanupotus.dll
+E:\VisualStudioProjektit\Koulu\Perusteet\Laivanupotus\Laivanupotus\bin\Debug\netcoreapp3.1\Laivanupotus.pdb
+E:\VisualStudioProjektit\Koulu\Perusteet\Laivanupotus\Laivanupotus\obj\Debug\netcoreapp3.1\Laivanupotus.csprojAssemblyReference.cache
+E:\VisualStudioProjektit\Koulu\Perusteet\Laivanupotus\Laivanupotus\obj\Debug\netcoreapp3.1\Laivanupotus.AssemblyInfoInputs.cache
+E:\VisualStudioProjektit\Koulu\Perusteet\Laivanupotus\Laivanupotus\obj\Debug\netcoreapp3.1\Laivanupotus.AssemblyInfo.cs
+E:\VisualStudioProjektit\Koulu\Perusteet\Laivanupotus\Laivanupotus\obj\Debug\netcoreapp3.1\Laivanupotus.csproj.CoreCompileInputs.cache
+E:\VisualStudioProjektit\Koulu\Perusteet\Laivanupotus\Laivanupotus\obj\Debug\netcoreapp3.1\Laivanupotus.dll
+E:\VisualStudioProjektit\Koulu\Perusteet\Laivanupotus\Laivanupotus\obj\Debug\netcoreapp3.1\Laivanupotus.pdb
+E:\VisualStudioProjektit\Koulu\Perusteet\Laivanupotus\Laivanupotus\obj\Debug\netcoreapp3.1\Laivanupotus.genruntimeconfig.cache
